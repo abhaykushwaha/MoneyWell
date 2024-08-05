@@ -1,0 +1,10 @@
+{
+    "MovementThreshold": 0.0,
+    "TimeThreshold": 0.0,
+    "MagicNumber": 0,
+    "Maxposition": 0,
+    "Sleepsecond": 0,
+    "StopLossPercent": 0.0,
+    "TargetPricePercent": 0.0,
+    "syncwithweb": true
+}
