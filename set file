@@ -1,10 +1,10 @@
 {
-    "MovementThreshold": 0.0,
-    "TimeThreshold": 0.0,
-    "MagicNumber": 0,
-    "Maxposition": 0,
-    "Sleepsecond": 0,
-    "StopLossPercent": 0.0,
-    "TargetPricePercent": 0.0,
+    "MovementThreshold": 10.0,
+    "TimeThreshold": 10.0,
+    "MagicNumber": 1011,
+    "Maxposition": 01,
+    "Sleepsecond": 1110,
+    "StopLossPercent": 0.8,
+    "TargetPricePercent": 2.0,
     "syncwithweb": true
 }
